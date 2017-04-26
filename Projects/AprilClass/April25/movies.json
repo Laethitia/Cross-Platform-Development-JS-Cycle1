@@ -1,0 +1,12 @@
+{
+	"movies":[
+		{
+			"name": "The Terminator",
+			"year": "1992",
+			"genre": "Action"
+		}
+	]
+}
+// create a Json file with 5 objects, the name of the movie
+// var movies = require ("./movies.json");
+//res.content
